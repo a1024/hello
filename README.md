@@ -1,4 +1,4 @@
-# hello
+# H.E.L.L.O - Human Encoder? Looks a Little Overpowered
  A data compression-based guessing game.
 
 # How to play
